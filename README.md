@@ -8,7 +8,7 @@ To execute this path finder you should open a terminal and write:
     1. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/SelectStart.png" width="40%">
 2. Then you have to choose the objective rectangle, clicking over the one you prefer
     1. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/SelectEnd.png" width="40%">
-3. Now fell free to draw as many walls as you want and create any sort of labyrinth, just by clicking or dragging over the rectangles
+3. Now fell free to draw as many walls as you want and create any types of labyrinths, just by clicking or dragging over the rectangles
     1. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/DrawWalls.png" width="40%">
 4. At this point to start the path finfing just press **enter** and the algorithm will start
     1. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/AlgorithmStart.png" width="40%">
