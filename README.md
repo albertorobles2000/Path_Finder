@@ -5,4 +5,4 @@ To execute this path finder you should open a terminal and write:
   python path_finding.py
   
 
-![isjs](https://github.com/albertorobles2000/Path_Finder/images/end.jpg?raw=true)
+![isjs](https://github.com/albertorobles2000/Path_Finder/edit/main/images/Final.jpg?raw=true)
