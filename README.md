@@ -4,5 +4,6 @@ Path finder which use diferent algorithms such as A* or minimal cost, write in p
 To execute this path finder you should open a terminal and write:
   python path_finding.py
   
-
-![isjs](https://github.com/albertorobles2000/Path_Finder/edit/main/images/Final.jpg?raw=true)
+As we can see at the end it will show the selected path.
+  
+<img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/Final.png" width="40%">
