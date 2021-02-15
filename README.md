@@ -26,14 +26,14 @@ python path_finding.py
   
 ## How does it work?
 1. First you must select an Algorithm and press **Start**
-    <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/StartMenu.png" width="40%">
+    1. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/StartMenu.png" width="40%">
 2. When you have selected an algorithm you should select the start rectangle that you prefer, just clicking over it with the mouse
-    <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/SelectStart.png" width="40%">
+    2. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/SelectStart.png" width="40%">
 3. Then you have to choose the objective rectangle, clicking over the one you prefer
-    <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/SelectEnd.png" width="40%">
+    3. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/SelectEnd.png" width="40%">
 4. Now fell free to draw as many walls as you want and create any types of labyrinths, just by clicking or dragging over the rectangles
-    <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/DrawWalls.png" width="40%">
+    4. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/DrawWalls.png" width="40%">
 5. At this point to start the path finfing just press **enter** and the algorithm will start
-    <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/AlgorithmStart.png" width="40%">
+    5. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/AlgorithmStart.png" width="40%">
 6. As you will see when it finds the goal rectangle it will draw the path, if you want to go back to the **Main Menu** just press **enter**
-    <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/Final.png" width="40%">
+    6. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/Final.png" width="40%">
