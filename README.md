@@ -1,10 +1,27 @@
-# Path_Finder
+# Path Finder
 Path finder which use diferent algorithms such as A* or minimal cost, write in python using pygame and numpy
 
-To execute this path finder you should open a terminal and write:
-  python path_finding.py
+
+## How can I execute it on my computer?
+To execute the **path finder** you should first have python 3 installed on your computer.
+
+Then you must install these packages to be able to run the program:
+
+1.PYGAME
+```bash
+pip install pygame
+```
+2.NUMPY
+```bash
+pip install numpy
+```
+To execute it you should open a terminal get into the **Path_Finder/** folder and write:
+```bash
+python path_finding.py
+```
   
   
+## How does it work?
 1. First you must select an Algorithm and press **Start**
     1. <img src="https://github.com/albertorobles2000/Path_Finder/blob/main/images/StartMenu.png" width="40%">
 2. When you have selected an algorithm you should select the start rectangle that you prefer, just clicking over it with the mouse
